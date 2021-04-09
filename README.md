@@ -10,7 +10,7 @@ In this article, we introduce a new family of distributions, called the generali
   2.  GOIE-W distribution
   3.  GOIE-L distribution
 3.  Mathematics properties
-  3.1.  Basic results in distribution
+  1.  Basic results in distribution
   2.  Asymptotic
   3.  Critical points of the crucial functions
   4.  Quantile function, skewness and kurtosis
